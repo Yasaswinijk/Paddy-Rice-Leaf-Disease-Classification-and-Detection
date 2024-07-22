@@ -10,7 +10,6 @@ The **Paddy-Rice-Leaf-Disease-Classification-and-Detection** project provides a 
 
 - **Disease Detection:** Detects various diseases on rice leaves from images.
 - **Disease Classification:** Classifies detected diseases into specific categories.
-- **User-Friendly Interface:** Simple interface for uploading leaf images and receiving results.
 - **High Accuracy:** Utilizes state-of-the-art models for precise detection and classification.
 
 ## Technologies Used
